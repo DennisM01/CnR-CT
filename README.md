@@ -1,3 +1,6 @@
+CnR-CT
+This is a simulator with a simple scenario to illustrate the workings of the Curtailment and Reallocation and the Capacity Trading algorithm
+
 This software should run on any Python 3.x version, but was developed in Python 3.9.1.
 
 In order to run the algorithms, it requires input files in the directory mentioned in the file_path variable. These files should be:
